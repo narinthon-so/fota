@@ -1,0 +1,8 @@
+{
+    "type": "esp32-fota-http",
+    "version": 2,
+    "host": "raw.githubusercontent.com",
+    "port": 433,
+    "bin": "/narinthon-so/fota/blob/master/ppfd_meter/ppfd_meter_v1.0.bin"
+}
+
