@@ -3,5 +3,5 @@
     "version": 2,
     "host": "raw.githubusercontent.com",
     "port": 433,
-    "bin": "/narinthon-so/fota/master/ppfd_meter/ppfd_meter_v1.0.bin"
+    "bin": "/narinthon-so/fota/master/ppfd_meter/firmware.bin"
 }
